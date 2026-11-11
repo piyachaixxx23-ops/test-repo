@@ -1,2 +1,2 @@
 # test-repoทดสอบ
-git
+gitทดสอบ
